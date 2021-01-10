@@ -1,6 +1,7 @@
 ---
-title: "STORY-OF-MY-LIFE"
-date: 2021-01-10
+food: Pizza
 ---
+
+<h1>{{ page.food }}</h1>
 sdgsdgdvdvdf
 
